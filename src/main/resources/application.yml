@@ -2,8 +2,8 @@ spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
     url: "jdbc:mysql://stenin-server.mysql.database.azure.com:3306/stenin-database?allowPublicKeyRetrieval=true&useSSL=false&createDatabaseIfNotExist=true&serverTimezone=UTC"
-    username: master
-    password: Verisitas76
+    username: gixmjzivsn
+    password: xM2t5Q3ZqPR$wxei
   servlet:
     multipart:
       max-file-size: 2MB
